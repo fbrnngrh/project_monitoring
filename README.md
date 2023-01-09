@@ -6,7 +6,7 @@ Index - View
 ![image]( /ss/tampilan%20index.php.png )
 
 Add Project - View
-![image]( /ss/tampilan%20add%20project.png )
+![image]( /ss/add%20project.png )
 
 Edit Project - View
-![image]( /ss/tampilan%20edit%20project.png )
+![image]( /ss/edit%20project.png )
